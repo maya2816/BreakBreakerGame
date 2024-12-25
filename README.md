@@ -2,7 +2,7 @@
 
 An improved version of the classic BrickBreaker game implemented in Java. This game features dynamic gameplay with multiple difficulty levels, unique paddle types, and object-oriented programming concepts to provide an engaging and fun experience.
 
-![Level 2 Gameplay](pictures/level2.jpeg)
+![Level 2 Gameplay](pictures/level2.jpg)
 
 ## Features
 
