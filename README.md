@@ -27,3 +27,18 @@ An improved version of the classic BrickBreaker game implemented in Java. This g
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/BrickBreaker.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd BrickBreaker
+
+3. Compile the code using your preferred Java IDE or javac command:
+   ```bash
+   javac -d bin src/**/*.java
+
+4. Run the game:
+    ```bash
+   java -cp bin org.cis1200.Game
+
+
+
