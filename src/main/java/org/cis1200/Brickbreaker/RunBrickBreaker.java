@@ -1,5 +1,4 @@
 package org.cis1200.Brickbreaker;
-import org.cis1200.mushroom.GameCourt;
 
 import java.awt.*;
 import javax.swing.*;
