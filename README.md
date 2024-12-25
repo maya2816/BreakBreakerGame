@@ -2,6 +2,8 @@
 
 An improved version of the classic BrickBreaker game implemented in Java. This game features dynamic gameplay with multiple difficulty levels, unique paddle types, and object-oriented programming concepts to provide an engaging and fun experience.
 
+![Level 2 Gameplay](pictures/level2.jpeg)
+
 ## Features
 
 - **Difficulty Levels**: Choose from three levels of difficulty to match your skill.
@@ -39,6 +41,12 @@ An improved version of the classic BrickBreaker game implemented in Java. This g
 4. Run the game:
     ```bash
    java -cp bin org.cis1200.Game
+
+You can also navigate to the game file and run it directly using:
+Path: BreakBreakerGame/src/main/java/org/cis1200/Game.java
+
+
+
 
 
 
